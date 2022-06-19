@@ -1,0 +1,2 @@
+# Monkey-Pox-Analysis
+EDA
